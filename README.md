@@ -18,7 +18,7 @@ Flutter for UI
 
 Dart as the programming language
 
-State Management: (e.g., Cubit / Bloc / Provider)
+
 
 Backend: ( PHP )
 
