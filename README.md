@@ -1,17 +1,25 @@
-# note
 
-A new Flutter project.
+📝 Notes App
+A simple Flutter app that allows users to log in, log out, and manage personal notes. Users can add, edit, and delete notes.
 
-## Getting Started
+⚙️ Features
+User authentication (login & logout)
 
-This project is a starting point for a Flutter application.
+View a list of personal notes
 
-A few resources to get you started if this is your first Flutter project:
+Add a new note
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Edit an existing note
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# note" 
+Delete notes
+
+🛠️ Technologies Used
+Flutter for UI
+
+Dart as the programming language
+
+State Management: (e.g., Cubit / Bloc / Provider)
+
+Backend: ( PHP )
+
+Data Storage: ( local database ) 
